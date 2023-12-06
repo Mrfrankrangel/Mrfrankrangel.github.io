@@ -9,6 +9,7 @@ My GitHub page is http://github.com/Mrfrankrangel.
 ### CPSC 120
 
 * Lab 1
+
     Lab 1 part 1 was my favorite due to how it introduced me to the world of
     Computer Science and coding. I was able to meet my lab partner and new 
     friends that I hang out with outside of the lab.
