@@ -4,7 +4,7 @@ This is my home page! My name is Frank Rangel and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Mrfrankrangel.
+My GitHub page is [http://github.com/Mrfrankrangel](http://github.com/Mrfrankrangel).
 
 ### CPSC 120
 
@@ -25,6 +25,6 @@ My GitHub page is http://github.com/Mrfrankrangel.
 
     Lab 5 part 1 and 2 are favorites of mine due to the people I worked with
     durning the lab. The person was very respectful and helpful and helped me
-    and now we are very good friends.
+    and now we are very very good friends.
 
           
